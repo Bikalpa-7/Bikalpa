@@ -1,4 +1,5 @@
 # Bikalpa
 This is my first git repository.
 <br>
-trying to learn github
+trying to learn github 
+what is status
